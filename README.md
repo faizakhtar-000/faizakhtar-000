@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-## Typescript is just better!
+## TypeScript is just JavaScript with trust issues!
